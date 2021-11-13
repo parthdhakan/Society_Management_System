@@ -1,0 +1,18 @@
+.footer{
+			position: fixed;
+			height: 6%;
+			left:0;
+			bottom: 0;
+			width: 100%;
+			background-color: black;
+			color:  white;
+			padding-left:20px;
+			padding-top:20px;
+		}
+.footer p{
+	text-align:right;
+	bottom:160%;
+	right:5%;
+	position:relative;
+
+}
